@@ -5,8 +5,8 @@
 
 ### Learnings from the project
 
- _**A better understanding of data handling with python(pandas), also the following concepts are used :
-**_
+ _A better understanding of data handling with python(pandas), also the following concepts are used :
+_
 1) Dataframe operations
 
 2) Conditional statement and loops
